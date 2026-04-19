@@ -10,6 +10,6 @@
 🔗 Code: [View Code](./03_LinkedList/LinkedListAllOperations.java)  
 📸 Output: [View Output](./03_LinkedList/output_linkedlist.png)
 
-## Program 2(ass): String Operations
+## Program 2(a): String Operations
 🔗 Code: [View Code](./04_String/StringOperationsAll.java)  
 📸 Output: [View Output](./04_String/output_string.png)

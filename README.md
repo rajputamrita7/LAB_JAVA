@@ -49,3 +49,7 @@
 ## Program 5(b): Swing TabbedPane (5B)
 🔗 Code: [View Code](./13_Swing_5B/SwingTabbedPaneExample.java)  
 📸 Output: [View Output](./13_Swing_5B/output_swing_5b.png)
+
+## Program 5(c): Swing Country Capital List (5C)
+🔗 Code: [View Code](./14_Swing_5C/SwingCountryCapital.java)  
+📸 Output: [View Output](./14_Swing_5C/output_swing_5c.png)

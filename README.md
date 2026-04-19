@@ -53,3 +53,7 @@
 ## Program 5(c): Swing Country Capital List (5C)
 🔗 Code: [View Code](./14_Swing_5C/SwingCountryCapital.java)  
 📸 Output: [View Output](./14_Swing_5C/output_swing_5c.png)
+
+## Program 5(d): Swing TabbedPane (5D - CMY Colors)
+🔗 Code: [View Code](./15_Swing_5D/SwingTabbedPaneCMY.java)  
+📸 Output: [View Output](./15_Swing_5D/output_swing_5d.png)

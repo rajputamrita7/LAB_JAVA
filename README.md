@@ -19,6 +19,5 @@
 📸 Output: [View Output](./05_StringPerformance/output_performance.png)
 
 ## Program 3(a): String Operations 
-
 🔗 Code: [View Code](./06_String_3A/StringOperations3A.java)  
 📸 Output: [View Output](./06_String_3A/output_string3a.png)

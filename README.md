@@ -21,3 +21,7 @@
 ## Program 3(a): String Operations 
 🔗 Code: [View Code](./06_String_3A/StringOperations3A.java)  
 📸 Output: [View Output](./06_String_3A/output_string3a.png)
+
+## Program 3(b): String Exercises (3B Q1–Q5)
+🔗 Code: [View Code](./07_String_3B/StringExercise3B.java)  
+📸 Output: [View Output](./07_String_3B/output_string3b.png)

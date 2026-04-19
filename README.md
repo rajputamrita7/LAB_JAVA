@@ -25,3 +25,8 @@
 ## Program 3(b): String Exercises (3B Q1–Q5)
 🔗 Code: [View Code](./07_String_3B/StringExercise3B.java)  
 📸 Output: [View Output](./07_String_3B/output_string3b.png)
+
+## Program 3(c): String Exercises (3C Q6–Q10)
+
+🔗 Code: [View Code](./08_String_3C/StringExercise3C.java)  
+📸 Output: [View Output](./08_String_3C/output_string3c.png)

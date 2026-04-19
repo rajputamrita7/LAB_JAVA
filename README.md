@@ -38,6 +38,14 @@
 🔗 Code: [View Code](./10_Swing_4B/SwingButtons.java)  
 📸 Output: [View Output](./10_Swing_4B/output_swing_4b.png)
 
+## Program 4(c): Swing Image Button Event (4C)
+🔗 Code: [View Code](./11_Swing_4C/SwingImageButtons.java)  
+📸 Output: [View Output](./11_Swing_4C/output_2.png)
+
 ## Program 5(a): Swing JList Example (5A)
 🔗 Code: [View Code](./12_Swing_5A/SwingJListExample.java)  
 📸 Output: [View Output](./12_Swing_5A/output_Country.png)
+
+## Program 5(b): Swing TabbedPane (5B)
+🔗 Code: [View Code](./13_Swing_5B/SwingTabbedPaneExample.java)  
+📸 Output: [View Output](./13_Swing_5B/output_swing_5b.png)

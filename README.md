@@ -13,3 +13,7 @@
 ## Program 2(a): String Operations
 🔗 Code: [View Code](./04_String/StringOperationsAll.java)  
 📸 Output: [View Output](./04_String/output_string.png)
+
+## Program 2(b): StringBuffer vs StringBuilder Performance
+🔗 Code: [View Code](./05_StringPerformance/StringPerformanceTest.java)  
+📸 Output: [View Output](./05_StringPerformance/output_performance.png)

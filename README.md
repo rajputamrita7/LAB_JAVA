@@ -33,3 +33,7 @@
 ## Program 4(a): Swing Hello Program (4A)
 🔗 Code: [View Code](./09_Swing_4A/SwingHello.java)  
 📸 Output: [View Output](./09_Swing_4A/output_swing_4a.png)
+
+## Program 4(b): Swing Button Event (4B)
+🔗 Code: [View Code](./10_Swing_4B/SwingButtons.java)  
+📸 Output: [View Output](./10_Swing_4B/output_swing_4b.png)

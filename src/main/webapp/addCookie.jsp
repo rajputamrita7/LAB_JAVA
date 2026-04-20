@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Add Cookie</title>
+</head>
+<body>
+
+<%
+String name = request.getParameter("cname");
+String domain = request.getParameter("cdomain");
+int age = Integer.parseInt(request.getParameter("cage"));
+
+// Create cookie
+Cookie cookie = new Cookie(name, domain);
+
+// Set expiry
+cookie.setMaxAge(age);
+
+// Add cookie to response
+response.addCookie(cookie);
+%>
+
+<h2>Cookie Created Successfully!</h2>
+
+<p><b>Name:</b> <%= name %></p>
+<p><b>Domain:</b> <%= domain %></p>
+<p><b>Expiry Time:</b> <%= age %> seconds</p>
+
+<br>
+<a href="viewCookies.jsp">Go to Active Cookie List</a>
+
+
+
